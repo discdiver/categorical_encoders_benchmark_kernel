@@ -1,0 +1,2 @@
+# categorical_encoders_benchmark_kernel
+More benchmarking for categorical encoders
